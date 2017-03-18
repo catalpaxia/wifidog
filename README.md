@@ -1,0 +1,2 @@
+# wifidog
+free wifi
